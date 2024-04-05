@@ -19,7 +19,7 @@ Help is also available for each command, such as `gen help tokens`.
 Install `gen` on your machine via:
 
 ```
-go install github.com/maxfiebd/gen/cmd/gen@latest
+go install github.com/maxfiebd/gen/cmd/gen
 ```
 
 
