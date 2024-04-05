@@ -1,4 +1,4 @@
-package cmd
+package main
 
 import (
 	"fmt"
@@ -25,7 +25,7 @@ var (
 	}
 )
 
-// Execute executes the root command.
+// Evaluate executes the root command.
 func Execute() error {
 	return rootCmd.Execute()
 }
