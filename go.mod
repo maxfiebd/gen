@@ -1,4 +1,4 @@
-module github.com/ghchinoy/gen
+module github.com/maxfiebd/gen
 
 go 1.22.1
 
